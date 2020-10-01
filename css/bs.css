@@ -1,0 +1,127 @@
+@font-face{
+    font-family:fuente;
+    src: url(Hello.otf);
+}
+
+h1{
+	font-family: fuente;
+	font-size: 3rem;
+}
+
+h3{
+    font-family: fuente;
+	font-size: 2rem;
+}
+
+body{
+    font-family:'Lato', sans-serif;
+    font-size: 1.3rem;
+}
+
+/* pg Principal */
+.text-body-x{
+    color: #000 !important;
+}
+
+/* .bg-primary-x{
+    background: url("../img/Fondo2.jpg")  no-repeat!important;
+    
+} */
+.mt-5{
+    margin-top: 6rem!important;
+}
+.p-x{
+    padding-top: 20%;
+    padding-left: 15%;
+    
+}
+
+.pl{
+    padding-left: 15%;
+}
+.bg-danger-x{
+    background: #ffc5ec ;
+}
+
+.bg-danger-y{
+    background: #cc99ff;
+}
+
+.x {
+    font-size: 0.8rem;
+}
+
+.btn-primary-x{
+    color: black;
+    background:#efefef ;
+    border-color: rgb(118, 118, 118);
+}
+
+.redes{
+    width: 10%;
+}
+
+.cursor{
+    cursor: pointer !important;
+}
+
+/* M.Capilares */
+.bg-danger-z{
+    background: #ffc5ec;
+}
+
+/* M.Faciales */
+
+.bg-danger-a{
+    background: #e1fffe;
+}
+.imgC{
+    left: -700px;
+}
+/* Ingresar */
+
+.w-25{
+    width: 5% !important;
+}
+
+.btn-primary-y{
+    color: black;
+    background:#fff ;
+}
+
+.btn-primary-a{
+    background: #e1fffe;
+}
+
+
+/* z-index */
+
+.i-b{
+    z-index: 0;
+    
+}
+
+.i-a{
+    z-index: 1;
+    opacity: 0.8;
+    cursor: pointer;
+    margin-bottom: 30%;
+    margin-left:35% ;
+}
+
+.i-d{
+    z-index: 1;
+    opacity: 0.8;
+    cursor: pointer;
+    margin-bottom: 15%;
+    margin-left:35% ;
+}
+
+.hp{
+   bottom: 0;
+   left: 0;
+}
+ 
+.over{
+    overflow: hidden;
+}
